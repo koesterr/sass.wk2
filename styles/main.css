@@ -1,0 +1,11 @@
+project/
+│ index.html
+│ css/
+│   main.css   (compiled from SCSS)
+│ scss/
+│   main.scss
+│   _colors.scss
+│   _typography.scss
+│   _layout.scss
+│   vendor/
+│      _normalize.scss
